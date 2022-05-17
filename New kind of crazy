@@ -123,3 +123,4 @@ net = Net()
 print(net)
     
 More Tools
+$ mvn deploy
